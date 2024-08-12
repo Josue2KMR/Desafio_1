@@ -19,3 +19,11 @@ public class Substraction
        return a - b;
    }
 }
+
+public class Multiplication
+{
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+}
